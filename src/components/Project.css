@@ -1,0 +1,70 @@
+.project-heading {
+
+    color: white;
+    margin-top: 300px;
+    margin-left: 40%;
+    font-family: "Bebas Neue", sans-serif;
+   font-weight: 400;
+   font-style: normal;
+}
+
+#project-card {
+    background-color: rgb(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    color: white;
+    transition: transform 0.3s ease;
+    width: 19rem;
+
+}
+
+#project-card:hover {
+    transform: scale(1.05);
+
+}
+
+.card-image {
+    border-radius: 25px;
+    opacity: 0.7;
+}
+
+#project-card Button {
+    font-weight: bolder;
+}
+
+@media only screen and (max-width: 767px) {
+    .project-heading {
+        margin-top: 100px;
+        margin-left: 35%;
+    }
+
+    .project-row {
+        display: flex;
+        flex-direction: row;
+        margin-left: -97px;
+        
+    }
+
+    #project-card {
+        width: 17rem;
+        
+
+    }
+
+    .card2{
+        margin-top: 30px;
+    }
+
+    .card3{
+        margin-top: 30px;
+    }
+
+    .card5{
+        margin-top: 30px;
+    }
+
+    .card6{
+        margin-top: 30px;
+    }
+
+}
