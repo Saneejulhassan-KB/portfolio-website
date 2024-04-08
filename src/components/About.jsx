@@ -76,7 +76,7 @@ function About() {
 
             >
               <div className='image' style={{ display: 'flex', flexDirection: 'row' }}>
-                <img src="https://media.glamourmagazine.co.uk/photos/6138e18bba7d9f71f540312c/master/pass/David-Beckham-Modern-Essent.jpg" alt="" width={'100px'} height={'100px'} style={{ borderRadius: '50%', boxShadow: '5px 5px 10px 0px rgba(0, 0, 0, 0.5)' }} />
+                <img src="public/images/WhatsApp Image 2024-04-08 at 10.46.33 AM.jpeg" alt="" width={'100px'} height={'100px'} style={{ borderRadius: '50%', boxShadow: '5px 5px 10px 0px rgba(0, 0, 0, 0.5)' }} />
 
               </div>
               <p>Hello! I'm Saneejulhassan KB. And I'm from the enchanting lands of Kerala, India. Armed with a bachelor's degree in Civil Engineering from Kerala Technological University. However, my heart was drawn to the captivating world of information technology, fueled by an insatiable curiosity about the inner workings of modern technologies. Driven by this passion, I embarked on a journey of self-directed learning, delving into the intricacies of web development and JavaScript.

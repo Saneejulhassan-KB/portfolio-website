@@ -56,7 +56,7 @@ function Home() {
               animate={{ y: [-10, 10, -10] }} // Define the y-axis animation
               transition={{ repeat: Infinity, duration: 1.5 }} // Repeat the animation infinitely
             >
-              <img src="https://media.glamourmagazine.co.uk/photos/6138e18bba7d9f71f540312c/master/pass/David-Beckham-Modern-Essent.jpg" alt="" />
+              <img src="public/images/WhatsApp Image 2024-04-08 at 10.46.33 AM.jpeg" alt="" />
             </motion.div>
           </Col>
         </Row>

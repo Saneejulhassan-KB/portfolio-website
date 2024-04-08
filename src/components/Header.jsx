@@ -17,7 +17,7 @@ function Header() {
                     transition={{ duration: 2, delay: 0.2, type: 'spring', stiffness: 120 }}
 
                 >
-                    <li><img src="https://media.glamourmagazine.co.uk/photos/6138e18bba7d9f71f540312c/master/pass/David-Beckham-Modern-Essent.jpg" alt="" width={'50px'} height={'50px'} style={{ borderRadius: '50%' }} /></li>
+                    <li><img src="public/images/WhatsApp Image 2024-04-08 at 10.46.33 AM.jpeg" alt="" width={'50px'} height={'50px'} style={{ borderRadius: '50%' }} /></li>
                     <hr style={{ width: '100%' }} />
                     <a href="#home">
                         <motion.li
