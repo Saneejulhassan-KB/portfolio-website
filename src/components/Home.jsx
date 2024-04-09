@@ -56,7 +56,7 @@ function Home() {
               animate={{ y: [-10, 10, -10] }} // Define the y-axis animation
               transition={{ repeat: Infinity, duration: 1.5 }} // Repeat the animation infinitely
             >
-              <img src="public/images/WhatsApp Image 2024-04-08 at 10.46.33 AM.jpeg" alt="" />
+              <img src="/images/WhatsApp Image 2024-04-08 at 10.46.33 AM.jpeg" alt="" />
             </motion.div>
           </Col>
         </Row>

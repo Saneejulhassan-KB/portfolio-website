@@ -76,7 +76,7 @@ function About() {
 
             >
               <div className='image' style={{ display: 'flex', flexDirection: 'row' }}>
-                <img src="public/images/WhatsApp Image 2024-04-08 at 10.46.33 AM.jpeg" alt="" width={'100px'} height={'100px'} style={{ borderRadius: '50%', boxShadow: '5px 5px 10px 0px rgba(0, 0, 0, 0.5)' }} />
+                <img src="/images/WhatsApp Image 2024-04-08 at 10.46.33 AM.jpeg" alt="" width={'100px'} height={'100px'} style={{ borderRadius: '50%', boxShadow: '5px 5px 10px 0px rgba(0, 0, 0, 0.5)' }} />
 
               </div>
               <p>Hello! I'm Saneejulhassan KB. And I'm from the enchanting lands of Kerala, India. Armed with a bachelor's degree in Civil Engineering from Kerala Technological University. However, my heart was drawn to the captivating world of information technology, fueled by an insatiable curiosity about the inner workings of modern technologies. Driven by this passion, I embarked on a journey of self-directed learning, delving into the intricacies of web development and JavaScript.
@@ -94,7 +94,7 @@ function About() {
                   whileFocus={{ scale: 1.1 }} // Scale up on focus
                   transition={{ duration: 0.1 }} // Smooth transition duration
                 >
-                  <img src='public/images/html5-original.svg' alt="" />
+                  <img src='/images/html5-original.svg' alt="" />
                   <div className='skill-name'>HTML</div>
                 </motion.div>
                 <motion.div className='skill'
@@ -103,7 +103,7 @@ function About() {
                   whileFocus={{ scale: 1.1 }} // Scale up on focus
                   transition={{ duration: 0.1 }} // Smooth transition duration
                 >
-                  <img src='public/images/css3-original.svg' alt="" />
+                  <img src='/images/css3-original.svg' alt="" />
                   <div className='skill-name'>CSS</div>
                 </motion.div>
                 <motion.div className='skill'
@@ -112,7 +112,7 @@ function About() {
                   whileFocus={{ scale: 1.1 }} // Scale up on focus
                   transition={{ duration: 0.1 }} // Smooth transition duration
                 >
-                  <img src='public/images/javascript-original.svg' alt="" />
+                  <img src='/images/javascript-original.svg' alt="" />
                   <div className='skill-name'>JavaScript</div>
                 </motion.div>
                 <motion.div className='skill'
@@ -121,7 +121,7 @@ function About() {
                   whileFocus={{ scale: 1.1 }} // Scale up on focus
                   transition={{ duration: 0.1 }} // Smooth transition duration
                 >
-                  <img src='public/images/react-original.svg' alt="" />
+                  <img src='/images/react-original.svg' alt="" />
                   <div className='skill-name'>React JS</div>
                 </motion.div>
                 <motion.div className='skill'
@@ -130,7 +130,7 @@ function About() {
                   whileFocus={{ scale: 1.1 }} // Scale up on focus
                   transition={{ duration: 0.1 }} // Smooth transition duration
                 >
-                  <img src='public/images/21_Angular_logo_logos-512.webp' alt="" />
+                  <img src='/images/21_Angular_logo_logos-512.webp' alt="" />
                   <div className='skill-name'>Angular</div>
                 </motion.div>
                 <motion.div className='skill'
@@ -139,7 +139,7 @@ function About() {
                   whileFocus={{ scale: 1.1 }} // Scale up on focus
                   transition={{ duration: 0.1 }} // Smooth transition duration
                 >
-                  <img src='public/images/git-original.svg' alt="" />
+                  <img src='/images/git-original.svg' alt="" />
                   <div className='skill-name'>Git</div>
                 </motion.div>
                 <motion.div className='skill'
@@ -148,7 +148,7 @@ function About() {
                   whileFocus={{ scale: 1.1 }} // Scale up on focus
                   transition={{ duration: 0.1 }} // Smooth transition duration
                 >
-                  <img src='public/images/nodejs-original.svg' alt="" />
+                  <img src='/images/nodejs-original.svg' alt="" />
                   <div className='skill-name'>Node JS</div>
                 </motion.div>
                 <motion.div className='skill'
@@ -157,7 +157,7 @@ function About() {
                   whileFocus={{ scale: 1.1 }} // Scale up on focus
                   transition={{ duration: 0.1 }} // Smooth transition duration
                 >
-                  <img src='public/images/mongodb-original.svg' alt="" />
+                  <img src='/images/mongodb-original.svg' alt="" />
                   <div className='skill-name'>MongoDB</div>
                 </motion.div>
                 <motion.div className='skill'
@@ -166,7 +166,7 @@ function About() {
                   whileFocus={{ scale: 1.1 }} // Scale up on focus
                   transition={{ duration: 0.1 }} // Smooth transition duration
                 >
-                  <img src='public/images/bootstrap-original.svg' alt="" />
+                  <img src='/images/bootstrap-original.svg' alt="" />
                   <div className='skill-name'>Bootstrap</div>
                 </motion.div>
                 <motion.div className='skill'
@@ -175,7 +175,7 @@ function About() {
                   whileFocus={{ scale: 1.1 }} // Scale up on focus
                   transition={{ duration: 0.1 }} // Smooth transition duration
                 >
-                  <img src='public/images/materialui-original.svg' alt="" />
+                  <img src='/images/materialui-original.svg' alt="" />
                   <div className='skill-name'>MaterialUI</div>
                 </motion.div>
                 <motion.div className='skill'
@@ -184,7 +184,7 @@ function About() {
                   whileFocus={{ scale: 1.1 }} // Scale up on focus
                   transition={{ duration: 0.1 }} // Smooth transition duration
                 >
-                  <img src='public/images/figma-original.svg' alt="" />
+                  <img src='/images/figma-original.svg' alt="" />
                   <div className='skill-name'>Figma</div>
                 </motion.div>
                 <motion.div className='skill'
@@ -193,7 +193,7 @@ function About() {
                   whileFocus={{ scale: 1.1 }} // Scale up on focus
                   transition={{ duration: 0.1 }} // Smooth transition duration
                 >
-                  <img src='public/images/bootstrap-original.svg' alt="" />
+                  <img src='/images/bootstrap-original.svg' alt="" />
                   <div className='skill-name'>TailwindCSS</div>
                 </motion.div>
                 <motion.div className='skill'
@@ -202,7 +202,7 @@ function About() {
                   whileFocus={{ scale: 1.1 }} // Scale up on focus
                   transition={{ duration: 0.1 }} // Smooth transition duration
                 >
-                  <img src='public/images/vscode-original.svg' alt="" />
+                  <img src='/images/vscode-original.svg' alt="" />
                   <div className='skill-name'>VS Code</div>
                 </motion.div>
 

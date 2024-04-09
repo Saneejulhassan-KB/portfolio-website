@@ -69,7 +69,7 @@ function Project() {
               >
                 <Card id='project-card' className='card1'>
                   <div className='card-wrapper'>
-                    <Card.Img variant="top" src="public/images/card/travel freak.png" className='card-image p-3' />
+                    <Card.Img variant="top" src="/images/card/travel freak.png" className='card-image p-3' />
                   </div>
                   <Card.Body>
                     <Card.Title>Travel-Freak</Card.Title>
@@ -91,7 +91,7 @@ function Project() {
 
               >
                 <Card id='project-card' className='card2'>
-                  <Card.Img variant="top" src="public/images/card/bmi calculator.png" className='card-image p-3' />
+                  <Card.Img variant="top" src="/images/card/bmi calculator.png" className='card-image p-3' />
                   <Card.Body>
                     <Card.Title>BMI-Calculator</Card.Title>
                     <Card.Text>
@@ -112,7 +112,7 @@ function Project() {
 
               >
                 <Card id='project-card' className='card3' >
-                  <Card.Img variant="top" src="public/images/card/expense pro.png" className='card-image p-3' />
+                  <Card.Img variant="top" src="/images/card/expense pro.png" className='card-image p-3' />
                   <Card.Body>
                     <Card.Title>Expense Pro</Card.Title>
                     <Card.Text>
@@ -141,7 +141,7 @@ function Project() {
 
               >
                 <Card id='project-card'  className='card4' >
-                  <Card.Img variant="top" src="public/images/card/feune restaurant.png" className='card-image p-3' />
+                  <Card.Img variant="top" src="/images/card/feune restaurant.png" className='card-image p-3' />
                   <Card.Body>
                     <Card.Title>Feune</Card.Title>
                     <Card.Text>
@@ -162,7 +162,7 @@ function Project() {
 
               >
                 <Card id='project-card' className='card5'>
-                  <Card.Img variant="top" src="public/images/card/head phone.png" className='card-image p-3' />
+                  <Card.Img variant="top" src="/images/card/head phone.png" className='card-image p-3' />
                   <Card.Body>
                     <Card.Title>Headphone-Website</Card.Title>
                     <Card.Text>
@@ -183,7 +183,7 @@ function Project() {
 
               >
                 <Card id='project-card'className='card6' >
-                  <Card.Img variant="top" src="public/images/card/dreamy wedding.png" className='card-image p-3' />
+                  <Card.Img variant="top" src="/images/card/dreamy wedding.png" className='card-image p-3' />
                   <Card.Body>
                     <Card.Title>Dreamy</Card.Title>
                     <Card.Text>
